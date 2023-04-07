@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Readyly-Test/static/css/main.cbb83926.css",
+    "main.js": "/Readyly-Test/static/js/main.3e8ee3f9.js",
+    "index.html": "/Readyly-Test/index.html",
+    "main.cbb83926.css.map": "/Readyly-Test/static/css/main.cbb83926.css.map",
+    "main.3e8ee3f9.js.map": "/Readyly-Test/static/js/main.3e8ee3f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb83926.css",
+    "static/js/main.3e8ee3f9.js"
+  ]
+}
